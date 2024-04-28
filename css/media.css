@@ -168,9 +168,8 @@
     }
 
     .btn-group {
-        justify-content: space-evenly;
+        justify-content: space-between;
         align-items: center;
-        gap: 7px;
     }
 
     .nav-parent .nav-links {
@@ -245,11 +244,11 @@
     }
 
     .subscribe input {
-        width: 75%;
+        width: 70%;
     }
 
     .subscribe button {
-        width: 22%;
+        width: 25%;
     }
 
     .footer-2 {
