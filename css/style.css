@@ -180,12 +180,12 @@ header {
     padding: 15px 31px;
     border-radius: 25px 25px 25px 25px;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 14px;
 }
 
 .btn-group .btn2 {
     font-weight: 600;
-    font-size: 16px;
+    font-size: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -365,11 +365,12 @@ header {
 }
 
 .gallery .gallery-layout {
-    display: flex;
+    /* display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: center;
+    align-items: center; */
+    columns: 1;
 }
 .layer-position {
     width: 96%;
